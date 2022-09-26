@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-25T23:28:26+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T21:41:13+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -74,7 +74,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
                 TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>Па...Парменид / он считал Па...Парменида вот почему он ставил его так высоко а при этом Поппер был атеистом / он был убежденным атеистом и поэ... почему эээ / уу он был фанатом досократиков? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Па...Парменид / он считал Па...Парменида вот почему он ставил его так высоко а при этом Поппер был атеистом / он был убежденным атеистом и поэтом... почему эээ / уу он был фанатом досократиков //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -107,60 +107,62 @@
         PARTICIPANT="@avl1951m" TIER_ID="transl@avl1951m">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>in fact that's what really surprises me eeh / my friends among the various myths about Parmenides / aaa about Parmenides / the most amazing thing is of course / is is / eeh is the myth of Popper //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>In fact, that's what really surprises me, my friends, among the various myths about Parmenides, about Parmenides, the most amazing thing is of course is is is the myth of Popper.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a5">
-                <ANNOTATION_VALUE>you know that / Karl Popper / he considered himself such a fan of pre-socratics since the sixties he wrote there back to the pre-socratics back to the pre-socratics all philosophers eeh / should be engaged / in space / learn from the greeks / and not engage in some / nonsense //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>You know that  Karl Popper, he considered himself such a fan of pre-socratics, since the sixties, he wrote there: back to the pre-socratics, back to the pre-socratics, all philosophers should be engaged in space, learn from the greeks and not be engaged in some nonsense.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a8">
-                <ANNOTATION_VALUE>dnd the entanglement //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And the entanglement.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>aaa //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Aaa...</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a10">
-                <ANNOTATION_VALUE>Popper //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Popper.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a11">
-                <ANNOTATION_VALUE>he was mesmerized //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>He was mesmerized.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a12">
-                <ANNOTATION_VALUE>Parmenides / he considered Parmenides that's why he put him so high and at the same time Popper was an atheist / he was a staunch atheist so that's why he was a fan of the pre-socratics? //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Parmenides, he considered Parmenides, that's why he put him so high, and at the same time Popper was an atheist, he was a staunch atheist, so that's why he was a fan of the pre-socratics.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a14">
-                <ANNOTATION_VALUE>he considered that they had freed us / well exactly how the epi... epicureans / freed us from / from the priest's stupor / from deception / from religion / opened up the real cosmos to us //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>He considered that they had freed us, well, exactly how the epicureans freed us from from the priest's stupor, from deception, from religion, opened up the real cosmos to us.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a17">
-                <ANNOTATION_VALUE>and so philosophers have to do this</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And so philosophers have to do this.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a18">
-                <ANNOTATION_VALUE>first h... he does not understand that / even the cosmology of Parmenides / it is aa / di... directed against the new scientific picture of the world / it brings religion back / it brings truth back / eh to the world / that holds / this block here //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Firstly, he does not understand that even the cosmology of Parmenides, it is directed against the new scientific picture of the world, it brings religion back, it brings truth back to the world that holds this block here.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a21">
-                <ANNOTATION_VALUE>understand //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>You understand.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
+    <TIER ANNOTATOR="votdosada" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@avl1951m" TIER_ID="spokencorpora@avl1951m"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
         LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
